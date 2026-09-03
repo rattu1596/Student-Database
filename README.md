@@ -102,21 +102,8 @@ This project helped in understanding:
 
 ---
 
-## 👨‍💻 Author
+## 🤝 Author
 
-**Kunal Gupta**
-🎓 Civil Engineering Student
-💻 C++ Developer
+* Ratnesh Pandey
 
 ---
-
-## 🤝 Team Members
-
-* Aaryan Banyal
-* Abhinav Kanwal
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
